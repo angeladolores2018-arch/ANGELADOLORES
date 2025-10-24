@@ -1,0 +1,13 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# macOS
+.DS_Store
+# VS Code
+.vscode/
+# Node (varsa)
+node_modules/

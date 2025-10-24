@@ -1,0 +1,133 @@
+[
+  {
+    "job": "svg_to_png_allinone",
+    "time_start": 1761242855.9038038,
+    "status": "no_svg",
+    "error": null,
+    "time_end": 1761242855.904615,
+    "duration": 0.0
+  },
+  {
+    "job": "svg_to_png_allinone",
+    "time_start": 1761242980.297199,
+    "status": "no_svg",
+    "error": null,
+    "time_end": 1761242980.299306,
+    "duration": 0.0
+  },
+  {
+    "job": "svg_to_png_allinone",
+    "time_start": 1761243186.500499,
+    "status": "no_svg",
+    "error": null,
+    "time_end": 1761243186.504117,
+    "duration": 0.0
+  },
+  {
+    "job": "phiando_diag_svg_to_png",
+    "time_start": 1761245104.674477,
+    "time_end": 1761245105.171684,
+    "duration": 0.5,
+    "env": {
+      "date": "2025-10-23 20:45:04",
+      "platform": "macOS-10.15.7-x86_64-i386-64bit",
+      "python": "3.8.2 (default, Dec 21 2020, 15:06:04) ",
+      "shell": "/bin/zsh",
+      "path": "/Users/azomazo/ANGELADOLORES/venv/bin:/Users/azomazo/ANGELADOLORES/bin:/Users/azomazo/miniconda3/bin:/Users/azomazo/miniconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin",
+      "base": "/Users/azomazo/ANGELADOLORES",
+      "sw_vers": "ProductName:\tMac OS X\nProductVersion:\t10.15.7\nBuildVersion:\t19H2026"
+    },
+    "tools": {
+      "available": {
+        "inkscape_app": false,
+        "inkscape": false,
+        "magick": false,
+        "convert": false,
+        "rsvg-convert": false,
+        "python3": true
+      },
+      "versions": {},
+      "cairosvg_import_error": "no library called \"cairo-2\" was found\nno library called \"cairo\" was found\nno library called \"libcairo-2\" was found\ncannot load library 'libcairo.so.2': dlopen(libcairo.so.2, 2): image not found.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'\ncannot load library 'libcairo.2.dylib': dlopen(libcairo.2.dylib, 2): image not found.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'\ncannot load library 'libcairo-2.dll': dlopen(libcairo-2.dll, 2): image not found.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'"
+    },
+    "publish_dir": "/Users/azomazo/ANGELADOLORES/publish",
+    "png_dir": "/Users/azomazo/ANGELADOLORES/png",
+    "svg_count": 1,
+    "created_test_svg": true,
+    "conversions": [
+      {
+        "file": "/Users/azomazo/ANGELADOLORES/publish/phiando_test.svg",
+        "out": "/Users/azomazo/ANGELADOLORES/png/phiando_test.png",
+        "status": "failed",
+        "used": null,
+        "attempts": [
+          {
+            "method": "inkscape_app",
+            "available": false,
+            "error": "not_available"
+          },
+          {
+            "method": "inkscape",
+            "available": false,
+            "error": "not_available"
+          },
+          {
+            "method": "magick",
+            "available": false,
+            "error": "not_available"
+          },
+          {
+            "method": "convert",
+            "available": false,
+            "error": "not_available"
+          },
+          {
+            "method": "rsvg-convert",
+            "available": false,
+            "error": "not_available"
+          },
+          {
+            "method": "cairosvg",
+            "available": false,
+            "error": "not_available"
+          }
+        ]
+      }
+    ],
+    "success_count": 0,
+    "recommendations": [
+      "Install Inkscape (stable for macOS) and ensure the binary is accessible. The app path is /Applications/Inkscape.app/Contents/MacOS/inkscape.",
+      "Install librsvg (provides rsvg-convert).",
+      "Install ImageMagick (magick/convert).",
+      "Install/repair cairosvg; current import error: no library called \"cairo-2\" was found\nno library called \"cairo\" was found\nno library called \"libcairo-2\" was found\ncannot load library 'libcairo.so.2': dlopen(libcairo.so.2, 2): image not found.  Addi..."
+    ]
+  },
+  {
+    "job": "post_brew_diag",
+    "time_start": 1761247008.634878,
+    "time_end": 1761247009.040211,
+    "duration": 0.41,
+    "env": {
+      "macOS": "macOS-10.15.7-x86_64-i386-64bit",
+      "python": "3.8.2 (default, Dec 21 2020, 15:06:04) ",
+      "tools": {
+        "inkscape": false,
+        "magick": false,
+        "convert": false,
+        "rsvg-convert": false
+      },
+      "cairosvg_ok": false,
+      "cairosvg_err": "no library called \"cairo-2\" was found\nno library called \"cairo\" was found\nno library called \"libcairo-2\" was found\ncannot load library 'libcairo.so.2': dlopen(libcairo.so.2, 2): image not found.  Addi"
+    },
+    "created_test_svg": false,
+    "conversions": [
+      {
+        "file": "/Users/azomazo/ANGELADOLORES/publish/phiando_test.svg",
+        "out": "/Users/azomazo/ANGELADOLORES/png/phiando_test.png",
+        "status": "failed",
+        "used": null,
+        "attempts": []
+      }
+    ],
+    "success_count": 0
+  }
+]

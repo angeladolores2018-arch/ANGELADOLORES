@@ -1,0 +1,40 @@
+{"timestamp":"2025-10-23T12:05:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"Başlatılıyor: PhiANDO smoke test taraması."}
+{"timestamp":"2025-10-23T12:05:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"core dizini bulundu."}
+{"timestamp":"2025-10-23T12:05:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"publish dizini bulundu."}
+{"timestamp":"2025-10-23T12:05:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"logs dizini bulundu."}
+{"timestamp":"2025-10-23T12:05:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"phiando_core.sh bulundu."}
+{"timestamp":"2025-10-23T12:05:42Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"PhiANDO: (dry mode) render pipeline testi başlatılıyor..."}
+{"timestamp":"2025-10-23T12:05:42Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"(Simülasyon) core orchestrator başarıyla çağrıldı."}
+{"timestamp":"2025-10-23T12:05:42Z","agent":"phiando_smoke_tester_v1","phase":"summary","status":"ok","summary":"Toplam 7 JSON kayıt memory loguna yazıldı."}
+{"timestamp":"2025-10-23T12:12:56Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"Başlatılıyor: PhiANDO smoke test taraması."}
+{"timestamp":"2025-10-23T12:12:56Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"core dizini bulundu."}
+{"timestamp":"2025-10-23T12:12:56Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"publish dizini bulundu."}
+{"timestamp":"2025-10-23T12:12:56Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"logs dizini bulundu."}
+{"timestamp":"2025-10-23T12:12:56Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"phiando_core.sh bulundu."}
+{"timestamp":"2025-10-23T12:12:56Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"PhiANDO: (dry mode) render pipeline testi başlatılıyor..."}
+{"timestamp":"2025-10-23T12:12:56Z","agent":"phiando_smoke_tester_v1","phase":"summary","status":"ok","summary":"Toplam 13 JSON kayıt memory loguna yazıldı."}
+{"timestamp":"2025-10-23T12:12:56Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"(Simülasyon) core orchestrator başarıyla çağrıldı."}
+{"timestamp":"2025-10-23T12:27:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"Başlatılıyor: PhiANDO smoke test taraması."}
+{"timestamp":"2025-10-23T12:27:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"core dizini bulundu."}
+{"timestamp":"2025-10-23T12:27:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"publish dizini bulundu."}
+{"timestamp":"2025-10-23T12:27:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"logs dizini bulundu."}
+{"timestamp":"2025-10-23T12:27:42Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"phiando_core.sh bulundu."}
+{"timestamp":"2025-10-23T12:27:42Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"PhiANDO: (dry mode) render pipeline testi başlatılıyor..."}
+{"timestamp":"2025-10-23T12:27:42Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"(Simülasyon) core orchestrator başarıyla çağrıldı."}
+{"timestamp":"2025-10-23T12:27:42Z","agent":"phiando_smoke_tester_v1","phase":"summary","status":"ok","summary":"Toplam 21 JSON kayıt memory loguna yazıldı."}
+{"timestamp":"2025-10-23T13:23:03Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"Başlatılıyor: PhiANDO smoke test taraması."}
+{"timestamp":"2025-10-23T13:23:03Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"core dizini bulundu."}
+{"timestamp":"2025-10-23T13:23:03Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"publish dizini bulundu."}
+{"timestamp":"2025-10-23T13:23:03Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"logs dizini bulundu."}
+{"timestamp":"2025-10-23T13:23:03Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"phiando_core.sh bulundu."}
+{"timestamp":"2025-10-23T13:23:03Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"PhiANDO: (dry mode) render pipeline testi başlatılıyor..."}
+{"timestamp":"2025-10-23T13:23:03Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"(Simülasyon) core orchestrator başarıyla çağrıldı."}
+{"timestamp":"2025-10-23T13:23:03Z","agent":"phiando_smoke_tester_v1","phase":"summary","status":"ok","summary":"Toplam 31 JSON kayıt memory loguna yazıldı."}
+{"timestamp":"2025-10-23T14:04:50Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"Başlatılıyor: PhiANDO smoke test taraması."}
+{"timestamp":"2025-10-23T14:04:50Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"core dizini bulundu."}
+{"timestamp":"2025-10-23T14:04:50Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"publish dizini bulundu."}
+{"timestamp":"2025-10-23T14:04:50Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"logs dizini bulundu."}
+{"timestamp":"2025-10-23T14:04:50Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"phiando_core.sh bulundu."}
+{"timestamp":"2025-10-23T14:04:51Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"PhiANDO: (dry mode) render pipeline testi başlatılıyor..."}
+{"timestamp":"2025-10-23T14:04:51Z","agent":"phiando_smoke_tester_v1","phase":"summary","status":"ok","summary":"Toplam 38 JSON kayıt memory loguna yazıldı."}
+{"timestamp":"2025-10-23T14:04:51Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"ok","summary":"(Simülasyon) core orchestrator başarıyla çağrıldı."}

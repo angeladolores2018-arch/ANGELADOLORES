@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "start_sec": 0,
+    "end_sec": 8,
+    "beat": "# Hook",
+    "visual_cue": "neon-minimal / bold type"
+  },
+  {
+    "index": 2,
+    "start_sec": 8,
+    "end_sec": 16,
+    "beat": "## Thesis",
+    "visual_cue": "neon-minimal / bold type"
+  },
+  {
+    "index": 3,
+    "start_sec": 16,
+    "end_sec": 24,
+    "beat": "## Beat 1 \u2014 Evidence",
+    "visual_cue": "neon-minimal / bold type"
+  },
+  {
+    "index": 4,
+    "start_sec": 24,
+    "end_sec": 32,
+    "beat": "## Interlude \u2014 Context",
+    "visual_cue": "neon-minimal / bold type"
+  },
+  {
+    "index": 5,
+    "start_sec": 32,
+    "end_sec": 40,
+    "beat": "## Beat 2 \u2014 Contrast",
+    "visual_cue": "neon-minimal / bold type"
+  },
+  {
+    "index": 6,
+    "start_sec": 40,
+    "end_sec": 48,
+    "beat": "## Beat 3 \u2014 Synthesis",
+    "visual_cue": "neon-minimal / bold type"
+  },
+  {
+    "index": 7,
+    "start_sec": 48,
+    "end_sec": 60,
+    "beat": "## CTA",
+    "visual_cue": "neon-minimal / bold type"
+  }
+]

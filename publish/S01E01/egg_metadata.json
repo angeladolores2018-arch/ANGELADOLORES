@@ -1,0 +1,7 @@
+{
+  "egg_id":"egg_S01E01_v1",
+  "created":"$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+  "producer":"phiando_cli_v0.1",
+  "files":["S01E01_main_1080p.mp4","S01E01_shorts_1080x1920.mp4"],
+  "checksum":"$(shasum -a 256 publish/S01E01/S01E01_main_1080p.mp4 | awk '{print $1}')"
+}

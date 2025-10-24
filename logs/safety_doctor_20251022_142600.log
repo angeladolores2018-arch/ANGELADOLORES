@@ -1,0 +1,21 @@
+[14:26:00] ===== PHIANDO DOCTOR =====
+[14:26:00] OS:        10.15.7
+[14:26:00] CPU cores: 4
+[14:26:00] Memory:    16,0 GB
+[14:26:00] Free disk: 402G
+[14:26:01] [OK] ffmpeg: /Users/azomazo/ANGELADOLORES/bin/ffmpeg
+[14:26:01] [OK] ffprobe: /Users/azomazo/ANGELADOLORES/bin/ffprobe
+[14:26:01] [OK] say: /usr/bin/say
+[14:26:01] [OK] awk: /usr/bin/awk
+[14:26:01] [OK] sed: /usr/bin/sed
+[14:26:01] [OK] grep: /usr/bin/grep
+[14:26:03] [OK] filter: drawtext
+[14:26:03] [OK] filter: showwaves
+[14:26:03] [OK] filter: subtitles
+[14:26:03] [OK] filter: scale
+[14:26:03] [OK] filter: format
+[14:26:03] [OK] filter: overlay
+[14:26:04] [OK] font: /Library/Fonts/Arial Unicode.ttf
+[14:26:04] [OK] TTS voices: Samantha,Victoria,Yelda
+[14:26:04] ===== DOCTOR SUMMARY DONE =====
+[14:26:04] Log file: /Users/azomazo/ANGELADOLORES/logs/safety_doctor_20251022_142600.log

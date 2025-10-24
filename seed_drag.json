@@ -1,0 +1,9 @@
+{
+  "strategy": "drag_culture_focus",
+  "seeds": [
+    {"id":"D001","title":"Drag Race’ten İş Dersi: Kısıtlı bütçeyle büyük sahne","priority":"HIGH","mood":"bold","visual":"neon-minimal","angle":"critique"},
+    {"id":"D002","title":"Reading vs Ranting: Eleştiride drag estetiği","priority":"HIGH","mood":"playful","visual":"duotone","angle":"essay"},
+    {"id":"D003","title":"Snatch Game: Taklit, persona ve AI karakterleri","priority":"MEDIUM","mood":"curious","visual":"chrome","angle":"reportage"},
+    {"id":"D004","title":"Ball Culture 101: Kategoriler, yürüyüş, puanlama","priority":"MEDIUM","mood":"energetic","visual":"grainy","angle":"explainer"}
+  ]
+}

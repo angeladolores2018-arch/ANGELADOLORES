@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "🚀 Launching PhiANDO_NOVA..."
+cd "$(dirname "$0")/.." || exit 1
+python3 core/phi_core.py &
+open http://localhost:3000
+echo "🌸 PhiANDO is alive at http://localhost:3000"

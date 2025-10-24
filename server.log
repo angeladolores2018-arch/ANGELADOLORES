@@ -1,0 +1,7 @@
+[2025-10-21 22:38:13 +0200] [94742] [INFO] Starting gunicorn 23.0.0
+[2025-10-21 22:38:13 +0200] [94742] [INFO] Listening at: http://0.0.0.0:3000 (94742)
+[2025-10-21 22:38:13 +0200] [94742] [INFO] Using worker: gthread
+[2025-10-21 22:38:13 +0200] [94780] [INFO] Booting worker with pid: 94780
+[2025-10-22 21:47:58 +0200] [94742] [INFO] Handling signal: term
+[2025-10-22 21:47:59 +0200] [94780] [INFO] Worker exiting (pid: 94780)
+[2025-10-22 21:47:59 +0200] [94742] [INFO] Shutting down: Master

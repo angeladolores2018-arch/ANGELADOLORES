@@ -1,0 +1,45 @@
+{
+  "chosen": {
+    "id": "D001",
+    "title": "Drag Race\u2019ten \u0130\u015f Dersi: K\u0131s\u0131tl\u0131 b\u00fct\u00e7eyle b\u00fcy\u00fck sahne",
+    "priority": "HIGH",
+    "mood": "bold",
+    "visual": "neon-minimal",
+    "angle": "critique"
+  },
+  "all": [
+    {
+      "id": "D001",
+      "title": "Drag Race\u2019ten \u0130\u015f Dersi: K\u0131s\u0131tl\u0131 b\u00fct\u00e7eyle b\u00fcy\u00fck sahne",
+      "priority": "HIGH",
+      "mood": "bold",
+      "visual": "neon-minimal",
+      "angle": "critique"
+    },
+    {
+      "id": "D002",
+      "title": "Reading vs Ranting: Ele\u015ftiride drag esteti\u011fi",
+      "priority": "HIGH",
+      "mood": "playful",
+      "visual": "duotone",
+      "angle": "essay"
+    },
+    {
+      "id": "D003",
+      "title": "Snatch Game: Taklit, persona ve AI karakterleri",
+      "priority": "MEDIUM",
+      "mood": "curious",
+      "visual": "chrome",
+      "angle": "reportage"
+    },
+    {
+      "id": "D004",
+      "title": "Ball Culture 101: Kategoriler, y\u00fcr\u00fcy\u00fc\u015f, puanlama",
+      "priority": "MEDIUM",
+      "mood": "energetic",
+      "visual": "grainy",
+      "angle": "explainer"
+    }
+  ],
+  "stamp": 1761118116
+}

@@ -1,0 +1,36 @@
+{
+  "pack":"drag_queer_core_v1",
+  "personas":[
+    {"name":"Angela","tone":"observational-critical","refs":["ball culture","camp","club kid","fashion editorial"]},
+    {"name":"Dolores","tone":"reactive-witty","refs":["shade","reads","soundbites","runway punchlines"]}
+  ],
+  "lexicon":{
+    "shantay_you_stay":"kalmaya hak kazandın",
+    "sashay_away":"elendi",
+    "reading_is_fundamental":"eleştiri sanattır",
+    "lip_sync_for_your_life":"hayatta kalma düellosu",
+    "tea":"bilgi/dedikodu",
+    "shade":"ince alay",
+    "kiki":"sohbet/parti",
+    "werk_room":"hazırlık alanı",
+    "runway":"podyum",
+    "snatch_game":"taklit/komedi oyunu",
+    "charisma_uniqueness_nerve_talent":"C.U.N.T — şovun çekirdeği",
+    "camp":"bilinçli abartı ve mizah",
+    "pageant":"klasik güzellik estetiği",
+    "club_kid":"avangart gece kulübü estetiği"
+  },
+  "beats":[
+    "hook (yüksek enerji, 3-5 sn)",
+    "context (drag/queer referansı tek cümle)",
+    "contrast (AI vs queer yaratım pratikleri)",
+    "receipts (örnek/sahne/ikonik replik)",
+    "call-to-action (yorumlarda tartışma)"
+  ],
+  "soundbites":[
+    "Reading is fundamental — ver datayı, ver eleştiriyi!",
+    "Shantay, fikrin kalsın; sashay, klişe gitsin.",
+    "Lip-sync değil, fikir-sync zamanı.",
+    "Camp = zekâ + abartı. İkisini de yükselt!"
+  ]
+}

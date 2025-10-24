@@ -1,0 +1,29 @@
+---
+title: "Drag Race’ten İş Dersi: Kısıtlı bütçeyle büyük sahne"
+mood: "bold"
+tone: "drag-savvy, witty, critical"
+length: "medium"
+---
+
+# Hook
+Hot take in one line.
+
+## Thesis
+What’s actually going on & why it matters.
+
+## Beat 1 — Evidence
+Cite concrete trend/visual cue.
+
+## Interlude — Context
+A brief nod to history for credibility.
+
+## Beat 2 — Contrast
+Show the opposite case for tension.
+
+## Beat 3 — Synthesis
+Bridge to a takeaway for creators.
+
+## CTA
+“Save/share if this hit a nerve.”
+
+> Metrics hint: CTR=16.5% • Retention=68% • Share=4.5%

@@ -1,0 +1,8 @@
+{}
+{
+  "timestamp":"2025-10-22T19:44:54Z",
+  "agent":"phiando_core_builder",
+  "action":"fix_manifest_and_create_core",
+  "summary":"manifest.json'a consent ve network güvenlik alanları eklendi, core orchestrator oluşturuldu",
+  "confidence":0.9
+}

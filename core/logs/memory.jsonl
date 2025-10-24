@@ -1,0 +1,7 @@
+{"timestamp":"2025-10-23T11:09:28Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"Başlatılıyor: PhiANDO smoke test taraması."}
+{"timestamp":"2025-10-23T11:09:28Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"warn","summary":"core dizini eksik."}
+{"timestamp":"2025-10-23T11:09:28Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"warn","summary":"publish dizini eksik."}
+{"timestamp":"2025-10-23T11:09:28Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"ok","summary":"logs dizini bulundu."}
+{"timestamp":"2025-10-23T11:09:28Z","agent":"phiando_smoke_tester_v1","phase":"scan","status":"fail","summary":"phiando_core.sh bulunamadı."}
+{"timestamp":"2025-10-23T11:09:28Z","agent":"phiando_smoke_tester_v1","phase":"dry_run","status":"fail","summary":"phiando_core.sh çalıştırılabilir değil."}
+{"timestamp":"2025-10-23T11:09:29Z","agent":"phiando_smoke_tester_v1","phase":"summary","status":"ok","summary":"Toplam 6 JSON kayıt memory loguna yazıldı."}

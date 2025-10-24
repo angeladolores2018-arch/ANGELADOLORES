@@ -1,0 +1,9 @@
+{
+  "strategy": "contrast_emotion",
+  "seeds": [
+    {"id":"S001","title":"Post-Internet Couture vs Fast AI","priority":"HIGH","mood":"rage","visual":"neon-minimal","angle":"critique"},
+    {"id":"S002","title":"Museum NFTs After the Hype","priority":"MEDIUM","mood":"curious","visual":"duotone","angle":"reportage"},
+    {"id":"S003","title":"Analog Film Revival in AI Age","priority":"HIGH","mood":"nostalgia","visual":"grainy","angle":"op-ed"},
+    {"id":"S004","title":"Queer Futures in Algorithmic Fashion","priority":"MEDIUM","mood":"bold","visual":"chrome","angle":"essay"}
+  ]
+}
