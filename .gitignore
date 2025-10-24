@@ -11,3 +11,7 @@ __pycache__/
 .vscode/
 # Node (varsa)
 node_modules/
+
+# large binaries
+bin/
+*.phipkg
