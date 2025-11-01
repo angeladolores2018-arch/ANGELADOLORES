@@ -15,3 +15,9 @@ node_modules/
 # large binaries
 bin/
 *.phipkg
+
+# Local Netlify folder
+.netlify
+
+# Phiando guard (auto)
+PHIANDO_HUB/
